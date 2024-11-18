@@ -4,7 +4,6 @@ Este proyecto fue desarrollado por:
 - **Mateo Sanz**
 - **Samuel Arango**
 
-```markdown
 # Generador de Derivaciones y Árboles Sintácticos (AST)
 
 Este proyecto es un generador de derivaciones basado en gramáticas libres de contexto (CFG), que permite representar gráficamente tanto los árboles de derivación como los árboles sintácticos abstractos (AST). El programa es capaz de realizar derivaciones por la izquierda o por la derecha según lo seleccionado por el usuario.
