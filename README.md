@@ -1,4 +1,4 @@
-### Praxtica 3
+## **Practica** #3
 ## **Autores**
 Este proyecto fue desarrollado por:
 - **Mateo Sanz**
