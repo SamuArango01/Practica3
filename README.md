@@ -69,6 +69,3 @@ Seleccione la derivación (i para izquierda, d para derecha): i
 - `requirements.txt`: Archivo con dependencias requeridas (si se utilizan bibliotecas adicionales).
 
 
-## **Licencia**
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-```
