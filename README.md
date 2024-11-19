@@ -25,7 +25,7 @@ Este proyecto es un generador de derivaciones basado en gramáticas libres de co
 ## **Uso**
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/<tu_usuario>/generador-derivaciones-ast.git
+   git clone https://github.com/SamuArango01/Practica3.git
    cd generador-derivaciones-ast
    ```
 
