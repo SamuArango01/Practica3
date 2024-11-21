@@ -68,4 +68,4 @@ if direccion in ["i", "d"]:
         print(ast)
         ast.draw()  # Muestra el AST gráficamente
 else:
-    print("Opción inválida. Por favor, ingrese 'i' para izquierda o 'd' para derecha.")
+    print("Ingresaste incorrectamente. Por favor, ingrese 'i' para izquierda o 'd' para derecha.")
